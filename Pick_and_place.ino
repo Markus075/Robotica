@@ -1,3 +1,5 @@
+//No es mi codigo. Lo usé aprendiendo como programar un brazo robótico. Quizas nos sirva para programar "pick and place" -operación para nuestro robot SCARA.
+
 #include "OctubreRobotico.h"
 
 Servo servo_base;
